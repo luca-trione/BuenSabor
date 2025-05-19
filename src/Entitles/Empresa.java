@@ -1,3 +1,5 @@
+package Entitles;
+
 import java.util.ArrayList;
 
 public class Empresa {

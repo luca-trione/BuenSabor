@@ -1,3 +1,5 @@
+package Entitles;
+
 import java.time.LocalTime;
 
 public class Sucursal {
