@@ -2,7 +2,7 @@ package Entitles;
 
 import java.util.ArrayList;
 
-public class Empresa {
+public class Empresa extends Base{
     private String nombre;
     private String razonSocial;
     private int cuil;

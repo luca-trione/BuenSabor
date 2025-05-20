@@ -1,6 +1,6 @@
 package Entitles;
 
-public class Domicilio {
+public class Domicilio  extends Base{
     private String calle;
     private int numero;
     private int cp;
